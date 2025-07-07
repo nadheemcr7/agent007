@@ -41,8 +41,8 @@ from ..exceptions import AgentsException, UserError
 from ..handoffs import Handoff
 from ..items import TResponseInputItem, TResponseOutputItem
 from ..tool import FunctionTool, Tool
-from .fake_id import FAKE_RESPONSES_ID
 
+FAKE_RESPONSES_ID = "fake_response_id_12345"
 
 class Converter:
     @classmethod
