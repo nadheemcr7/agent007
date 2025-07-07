@@ -1,0 +1,8 @@
+openai-agents
+pydantic
+fastapi
+uvicorn
+groq
+python-dotenv
+supabase
+asyncpg
